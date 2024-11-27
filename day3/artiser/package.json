@@ -1,0 +1,15 @@
+{
+  "name": "artiser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test project"
+  },
+  "author": "Patrick",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.8.0"
+  }
+}
